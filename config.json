@@ -11,7 +11,7 @@
       "tabReloadIntervalSeconds": 1500
     },
     {
-      "https://app.asana.com/0/1200946633826714/list",
+      "url": "https://app.asana.com/0/1200946633826714/list",
       "duration": 20,
       "tabReloadIntervalSeconds": 1500
     },
