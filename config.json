@@ -1,1 +1,39 @@
-{}
+{
+  "settingsReloadIntervalMinutes": 1,
+  "fullscreen": true,
+  "autoStart": true,
+  "lazyLoadTabs": false,
+  "closeExistingTabs": false,
+  "websites": [
+    {
+      "url": "https://app.asana.com/0/1200929574992386/board",
+      "duration": 25,
+      "tabReloadIntervalSeconds": 1500
+    },
+    {
+      "https://app.asana.com/0/1200946633826714/list",
+      "duration": 20,
+      "tabReloadIntervalSeconds": 1500
+    },
+    {
+      "url": "https://app.asana.com/0/dashboard/1200929574992464",
+      "duration": 20,
+      "tabReloadIntervalSeconds": 1500
+    },
+    {
+      "url": "https://app.asana.com/0/dashboard/1201081071978245",
+      "duration": 20,
+      "tabReloadIntervalSeconds": 1500
+    },
+    {
+      "url": "https://genia.freshdesk.com/a/tickets/filters/unresolved",
+      "duration": 20,
+      "tabReloadIntervalSeconds": 1500
+    },
+    {
+      "url": "https://genia.freshdesk.com/a/analytics",
+      "duration": 20,
+      "tabReloadIntervalSeconds": 1500
+    }
+  ]
+}
